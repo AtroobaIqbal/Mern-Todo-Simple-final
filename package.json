@@ -1,0 +1,20 @@
+{
+  "name": "mern-todo-simple-final",
+  "version": "1.0.0",
+  "description": "![read me](https://github.com/syedafaiza2610/Mern-Stack-Todo./assets/137650931/bda94922-f879-4447-82e5-2ed58e01e357)",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./Backend/Server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
